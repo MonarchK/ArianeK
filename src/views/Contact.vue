@@ -42,10 +42,10 @@
         <a target="_blank" href="https://www.instagram.com/arianekaylaa/?hl=en"><CIcon icon="cibInstagram" class="w-25"/></a>
       </div>
       <div class="w-25 col-4">
-        <a target="_blank" href="https://www.instagram.com/arianekaylaa/?hl=en"><CIcon icon="cibTwitter" class="w-25"/></a>
+        <a target="_blank" href="https://www.twitter.com/@McKayla_tt"><CIcon icon="cibTwitter" class="w-25"/></a>
       </div>
       <div class="w-25 col-4">
-        <a target="_blank" href="https://www.instagram.com/arianekaylaa/?hl=en"><CIcon icon="cibGmail" class="w-25"/></a>
+        <a target="_blank" href="mailto:arianekayla.t@gmail.com"><CIcon icon="cibGmail" class="w-25"/></a>
       </div>
     </div>
   </div>
