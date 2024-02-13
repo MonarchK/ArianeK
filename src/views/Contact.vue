@@ -49,11 +49,6 @@
       </div>
     </div>
   </div>
-    <div class="ms-auto">
-      <ul class="list-inline">
-        <li class="list-inline-item"><a target="_blank" href="https://www.instagram.com/arianekaylaa/?hl=en"><CIcon icon="cibInstagram" size="sm"/></a></li>
-      </ul>
-    </div>
   </body>
 </template>
 
