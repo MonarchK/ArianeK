@@ -5,7 +5,7 @@ import Careers from '../views/Careers.vue'
 import Contact from '../views/Contact.vue'
 import test from '../views/test.vue'
 import Gallery from '../views/Gallery.vue'
-import Wardrobe from '../views/Wardrobe.vue'
+import Exhibition from '../views/Exhibition.vue'
 
 const routes = [
   {
@@ -39,9 +39,9 @@ const routes = [
     component : Gallery
   },
   {
-    path : '/careers/wardrobe',
-    name: 'Wardrobe',
-    component : Wardrobe
+    path : '/careers/exhibition',
+    name: 'Exhibition',
+    component : Exhibition
   }
 ]
 
