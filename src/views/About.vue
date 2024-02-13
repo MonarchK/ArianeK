@@ -5,12 +5,14 @@
           <div class="box bg-light text-dark border">
             <h2 class="fst-italic">About me</h2>
             <p>Ariane Kayla is a stylist known for her work in the fashion industry. Here are some details about her:<br />
+              <br />
               Hypebeast Magazine Interview:<br />
               Ariane Kayla was featured in an in-depth interview in Hypebeast Magazine Issue 32: The Fever Issue. She is a stylist who has made significant contributions to London’s avant-garde fashion community.
               Her work is embodied by designer Nasir Mazhar’s Fantastic Toiles collective.
               Ariane draws inspiration from London’s underground party scene, where creativity thrives in unexpected rave-friendly hubs and high-tempo warehouse nights.
               She collaborates with headwear designer Benny Andallo, whose visionary hats transform wearers into something fabulous and authoritative, regardless of their social or economic status.
               Notable figures like Rihanna, Pink Pantheress, Kid Cudi, FKA twigs, and Junya Watanabe have embraced Andallo’s silhouettes, which blend the past with a fearless futuristic aesthetic.<br />
+              <br />
               Photographer and Creative Director:<br />
               Ariane Kayla is also an American-born Photographer and Creative Director based in London.
               Her multicultural background, having grown up in different parts of the world, informs her artistic palette and cultural knowledge.
