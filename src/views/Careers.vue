@@ -4,9 +4,9 @@
     <div class="p-5">
       <div class="down">
         <p class="display-2">
-          <router-link to="/careers/gallery" class="text-decoration-none">
+          <a href="http://arianekayla.com" class="text-decoration-none">
             Fashion Photography
-          </router-link>
+          </a>
         </p>
       </div>
       <div class="row">
@@ -59,7 +59,7 @@
     </div>
     <div class="p-5">
       <div class="down">
-        <p class="display-2"><router-link to="/careers/gallery" class="text-decoration-none">
+        <p class="display-2"><router-link to="/careers/exhibition" class="text-decoration-none">
             Fashion Photography & Creative Directing
           </router-link></p>
       </div>
