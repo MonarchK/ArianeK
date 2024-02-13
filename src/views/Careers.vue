@@ -31,19 +31,37 @@
       </div>
       <div class="row">
         <div class="col-sm mt-5 mt-lg-0 col-md-12 pt-md-4 col-lg-4 pt-lg-0">
-          <img class="img-fluid" src="../img/Styling/design-1.jpg" />
+          <a target="_blank" href="https://www.instagram.com/p/CygweZqIz07/?igsh=MTNvdjdzZXo1dHp4Mw=="><img class="img-fluid" src="../img/Styling/design-1.jpg" /></a>
         </div>
         <div class="col-sm mt-5 mt-lg-0 col-md-12 pt-md-4 col-lg-4 pt-lg-0">
-          <img class="img-fluid" src="../img/Styling/design-2.jpg" />
+          <a target="_blank" href="https://www.instagram.com/p/CylBpHxtefl/?igsh=Nm5uZG93YXYxZWEw"><img class="img-fluid" src="../img/Styling/design-2.jpg" /></a>
         </div>
         <div class="col-sm mt-5 mt-lg-0 col-md-12 pt-md-4 col-lg-4 pt-lg-0">
-          <img class="img-fluid" src="../img/Styling/design-3.jpg" />
+          <a target="_blank" href="https://www.instagram.com/p/CylSP5FtbjH/?igsh=ejRkZGJydHVsM2cz"><img class="img-fluid" src="../img/Styling/design-3.jpg" /></a>
         </div>
       </div>
     </div>
     <div class="p-5">
       <div class="down">
         <p class="display-2">Creative Directing</p>
+      </div>
+      <div class="row">
+        <div class="col-sm mt-5 mt-lg-0 col-md-12 pt-md-4 col-lg-4 pt-lg-0">
+          <img class="img-fluid" src="../img/Cover/cover-1.jpg" />
+        </div>
+        <div class="col-sm mt-5 mt-lg-0 col-md-12 pt-md-4 col-lg-4 pt-lg-0">
+          <img class="img-fluid" src="../img/Cover/cover-2.jpg" />
+        </div>
+        <div class="col-sm mt-5 mt-lg-0 col-md-12 pt-md-4 col-lg-4 pt-lg-0">
+          <img class="img-fluid" src="../img/Cover/cover-3.jpg" />
+        </div>
+      </div>
+    </div>
+    <div class="p-5">
+      <div class="down">
+        <p class="display-2"><router-link to="/careers/gallery" class="text-decoration-none">
+            Fashion Photography & Creative Directing
+          </router-link></p>
       </div>
       <div class="row">
         <div class="col-sm mt-5 mt-lg-0 col-md-12 pt-md-4 col-lg-4 pt-lg-0">
