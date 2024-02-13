@@ -11,13 +11,13 @@
       </div>
       <div class="row">
         <div class="col-sm mt-5 mt-lg-0 col-md-12 pt-md-4 col-lg-4 pt-lg-0">
-           <a target="_blank" href="https://www.instagram.com/p/C2z9XnOOhjX/?igsh=dXNnbzVvOHl3dHI5"><img class="w-50" src="../img/PCD/pm/pm1.jpg" /></a>
+           <a target="_blank" href="https://www.instagram.com/p/C2z9XnOOhjX/?igsh=dXNnbzVvOHl3dHI5"><img class="img-fluid" src="../img/PCD/pm/pm1.jpg" /></a>
         </div>
         <div class="col-sm mt-5 mt-lg-0 col-md-12 pt-md-4 col-lg-4 pt-lg-0">
-          <img class="w-50" src="../img/PCD/pm/pm2.jpg" />
+          <img class="img-fluid" src="../img/PCD/pm/pm2.jpg" />
         </div>
         <div class="col-sm mt-5 mt-lg-0 col-md-12 pt-md-4 col-lg-4 pt-lg-0">
-          <img class="w-50" src="../img/PCD/pm/pm3.jpg" />
+          <img class="img-fluid" src="../img/PCD/pm/pm3.jpg" />
         </div>
       </div>
     </div>
