@@ -38,7 +38,7 @@
   <h2 class="text-center">Alternate Contact Options</h2>
   <div class="container-fluid ms-auto">
     <div class="row">
-      <div class="w-25 ms-auto col-4">
+      <div class="w-25 h col-4">
         <a target="_blank" href="https://www.instagram.com/arianekaylaa/?hl=en"><CIcon icon="cibInstagram" class="w-25"/></a>
       </div>
       <div class="w-25 col-4">
@@ -106,5 +106,9 @@ legend {
 div{
   padding-top: 5%;
   padding-bottom: 5%;
+}
+
+.h{
+  margin-left: 21%
 }
 </style>
