@@ -65,13 +65,13 @@
       </div>
       <div class="row">
         <div class="col-sm mt-5 mt-lg-0 col-md-12 pt-md-4 col-lg-4 pt-lg-0">
-          <img class="img-fluid" src="../img/Cover/cover-1.jpg" />
+          <img class="img-fluid" src="../img/PCD/pm/pm2.jpg" />
         </div>
         <div class="col-sm mt-5 mt-lg-0 col-md-12 pt-md-4 col-lg-4 pt-lg-0">
-          <img class="img-fluid" src="../img/Cover/cover-2.jpg" />
+          <img class="img-fluid" src="../img/PCD/pm/pm3.jpg" />
         </div>
         <div class="col-sm mt-5 mt-lg-0 col-md-12 pt-md-4 col-lg-4 pt-lg-0">
-          <img class="img-fluid" src="../img/Cover/cover-3.jpg" />
+          <img class="img-fluid" src="../img/PCD/t4t/t4t3.jpg" />
         </div>
       </div>
     </div>  
